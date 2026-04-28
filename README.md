@@ -43,5 +43,5 @@ Before running the script, make sure you have:
 Run the `setup.sh`script inside Termux:
 
 ```bash
-git clone https://github.com/VizXtreme/OpenCode-Termux.git && bash OpenCode-Termux/setup.sh
+pkg install git -y && git clone https://github.com/VizXtreme/OpenCode-Termux.git && bash OpenCode-Termux/setup.sh
 ```

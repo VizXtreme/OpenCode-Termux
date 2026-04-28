@@ -32,7 +32,7 @@ A one-command setup script to transform your Android device (via Termux) into a 
 Before running the script, make sure you have:
 
 - ✅ Android device
-- ✅ Termux installed (from F-Droid recommended)
+- ✅ Termux installed (from F-Droid, recommended)
 - ✅ Stable internet connection
 
 ---
@@ -43,5 +43,5 @@ Before running the script, make sure you have:
 Run the `setup.sh`script inside Termux:
 
 ```bash
-bash setup.sh
+git clone https://github.com/VizXtreme/OpenCode-Termux.git && bash OpenCode-Termux/setup.sh
 ```
